@@ -180,7 +180,9 @@ Le tableau de bord permet notamment de :
 
 ## 📄 Page de garde
 
-![Uploading Capture d'écran 2026-07-05 021707.png…]()
+## 📊 Tableau de bord exécutif
+
+![Executive Dashboard](Images/executive-dashboard.png)
 
 
 
