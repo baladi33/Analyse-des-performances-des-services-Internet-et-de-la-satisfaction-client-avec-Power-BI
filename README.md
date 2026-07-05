@@ -84,7 +84,7 @@ Présentation du projet avec :
 
 ---
 
-## 📄 Page 1 — Executive Dashboard
+## 📄 Page 1 — Tableau de bord exécutif
 
 Vue d'ensemble des performances.
 
@@ -221,9 +221,9 @@ Le tableau de bord permet notamment de :
 
 Data Analyst | Business Intelligence
 
-LinkedIn : *https://www.linkedin.com/in/zoubair-baladi/*
+LinkedIn : *(https://www.linkedin.com/in/zoubair-baladi/)*
 
-GitHub : *https://github.com/baladi33*
+GitHub : *(https://github.com/baladi33)*
 
 ---
 
