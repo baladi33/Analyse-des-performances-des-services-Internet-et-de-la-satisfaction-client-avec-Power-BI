@@ -180,7 +180,8 @@ Le tableau de bord permet notamment de :
 
 ## 📄 Page de garde
 
-![Uploading image.png…]()
+![Uploading Capture d'écran 2026-07-05 021707.png…]()
+
 
 
 ---
