@@ -180,10 +180,7 @@ Le tableau de bord permet notamment de :
 # 📸 Aperçu du Dashboard
 
 ## 📄 Page de garde
-
-## 📊 Tableau de bord exécutif
-
-![Uploading Executive_Dashboard.png…]()
+<img width="1280" height="716" alt="Executive_Dashboard" src="https://github.com/user-attachments/assets/8a49a9e6-260d-40de-9701-8f68a8e3d126" />
 
 ---
 
