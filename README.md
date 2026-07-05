@@ -178,25 +178,25 @@ Le tableau de bord permet notamment de :
 
 # 📸 Aperçu du Dashboard
 
-## Page de garde
+## 📄 Page de garde
 
 *(Ajouter une capture d'écran)*
 
 ---
 
-## Executive Dashboard
+## 📊 Tableau de bord exécutif
 
 *(Ajouter une capture d'écran)*
 
 ---
 
-## Analyse des performances réseau
+## 🌐 Analyse Performance du réseau
 
 *(Ajouter une capture d'écran)*
 
 ---
 
-## Analyse de la satisfaction client
+## 😊 Analyse de la satisfaction des clients
 
 *(Ajouter une capture d'écran)*
 
@@ -221,9 +221,9 @@ Le tableau de bord permet notamment de :
 
 Data Analyst | Business Intelligence
 
-LinkedIn : *(Ajouter votre profil LinkedIn)*
+LinkedIn : *https://www.linkedin.com/in/zoubair-baladi/*
 
-GitHub : *(Ajouter votre profil GitHub)*
+GitHub : *https://github.com/baladi33*
 
 ---
 
