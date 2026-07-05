@@ -175,7 +175,35 @@ Le tableau de bord permet notamment de :
 - Les régions urbaines bénéficient généralement d'une meilleure qualité de connexion.
 
 ---
+## 📄 Page de garde
 
+<p align="center">
+    <img src="page-garde.png" width="1000">
+</p>
+
+---
+
+## 📊 Tableau de bord exécutif
+
+<p align="center">
+    <img src="executive-dashboard.png" width="1000">
+</p>
+
+---
+
+## 🌐 Analyse des performances réseau
+
+<p align="center">
+    <img src="network-performance.png" width="1000">
+</p>
+
+---
+
+## 😊 Analyse de la satisfaction client
+
+<p align="center">
+    <img src="customer-satisfaction.png" width="1000">
+</p>
 # 📸 Aperçu du Dashboard
 
 ## 📄 Page de garde
