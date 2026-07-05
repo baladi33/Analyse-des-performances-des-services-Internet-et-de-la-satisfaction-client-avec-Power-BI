@@ -1,4 +1,4 @@
-# 📊 Analyse des performances des services Internet et de la satisfaction client
+<img width="1282" height="718" alt="Network_Performance" src="https://github.com/user-attachments/assets/04c1464f-1bc0-492f-8276-125ea9b5cdb2" /># 📊 Analyse des performances des services Internet et de la satisfaction client
 
 ## 📌 Description
 
@@ -42,7 +42,8 @@ L'objectif est de transformer les données en informations exploitables pour aid
 │
 📁 Images
 │
-├── Page_Garde.png
+├── ![Uploading Page_Garde.png…]()![Uploading Page_Garde.png…]()
+.png
 ├── Executive_Dashboard.png
 ├── Network_Performance.png
 └── Customer_Satisfaction.png
@@ -180,27 +181,27 @@ Le tableau de bord permet notamment de :
 # 📸 Aperçu du Dashboard
 
 ## 📄 Page de garde
-<img width="1280" height="716" alt="Executive_Dashboard" src="https://github.com/user-attachments/assets/8a49a9e6-260d-40de-9701-8f68a8e3d126" />
+
 
 ---
 
 ## 📊 Tableau de bord exécutif
 
-*(Ajouter une capture d'écran)*
+<img width="1280" height="716" alt="Executive_Dashboard" src="https://github.com/user-attachments/assets/8a49a9e6-260d-40de-9701-8f68a8e3d126" />
 
 ---
 
 ## 🌐 Analyse Performance du réseau
 
-*(Ajouter une capture d'écran)*
-
+<img width="1282" height="718" alt="Network_Performance" src="https://github.com/user-attachments/assets/37f9e823-9a90-47e5-af13-9cd14ddd3b35" />
 ---
 
 ## 😊 Analyse de la satisfaction des clients
 
-*(Ajouter une capture d'écran)*
+<img width="1277" height="718" alt="Customer_Satisfaction" src="https://github.com/user-attachments/assets/b7a1915a-385d-43c3-bcd3-211b26f6abd1" />
 
 ---
+
 
 # 🚀 Compétences mises en œuvre
 
