@@ -182,7 +182,7 @@ Le tableau de bord permet notamment de :
 
 ## 📄 Page de garde
 
-
+<img width="1280" height="716" alt="Executive_Dashboard" src="https://github.com/user-attachments/assets/126f3e02-e8e1-415e-9d9e-936853817f30" />
 ---
 
 ## 📊 Tableau de bord exécutif
