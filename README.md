@@ -182,8 +182,7 @@ Le tableau de bord permet notamment de :
 
 ## 📊 Tableau de bord exécutif
 
-![Executive Dashboard](Images/executive-dashboard.png)
-
+![Executive Dashboard](Images/Executive_Dashboard.png)
 
 
 ---
