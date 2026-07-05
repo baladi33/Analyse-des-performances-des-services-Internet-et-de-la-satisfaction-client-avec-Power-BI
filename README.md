@@ -223,7 +223,7 @@ Data Analyst | Business Intelligence
 
 LinkedIn : *(https://www.linkedin.com/in/zoubair-baladi/)*
 
-GitHub : *(https://github.com/baladi33)*
+GitHub : * https://github.com/baladi33 *
 
 ---
 
