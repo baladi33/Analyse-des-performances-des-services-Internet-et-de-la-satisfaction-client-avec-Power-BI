@@ -36,6 +36,11 @@ L'objectif est de transformer les données en informations exploitables pour aid
 │
 ├── Dataset Internet.csv
 │
+📁 Python
+│
+├── EDA_Internet.ipynb
+├── Internet_EDA.py
+│
 📁 Power BI
 │
 ├── Internet Performance Dashboard.pbix
@@ -49,7 +54,17 @@ L'objectif est de transformer les données en informations exploitables pour aid
 │
 └── README.md
 ```
+# 🐍 Analyse Exploratoire des Données (EDA)
 
+Avant la création du tableau de bord, une analyse exploratoire des données (EDA) a été réalisée avec Python afin de :
+
+- Comprendre la structure du dataset
+- Détecter les valeurs manquantes et les doublons
+- Nettoyer les données
+- Étudier la distribution des variables
+- Identifier les relations entre les indicateurs
+- Réaliser des analyses statistiques (corrélation de Pearson et ANOVA)
+- Extraire les premiers insights métier
 ---
 
 # 📈 Modèle de données
