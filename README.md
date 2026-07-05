@@ -1,4 +1,4 @@
-<img width="1282" height="718" alt="Network_Performance" src="https://github.com/user-attachments/assets/04c1464f-1bc0-492f-8276-125ea9b5cdb2" /># 📊 Analyse des performances des services Internet et de la satisfaction client
+# 📊 Analyse des performances des services Internet et de la satisfaction client
 
 ## 📌 Description
 
