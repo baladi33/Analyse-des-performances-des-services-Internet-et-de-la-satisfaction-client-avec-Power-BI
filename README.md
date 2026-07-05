@@ -42,8 +42,7 @@ L'objectif est de transformer les données en informations exploitables pour aid
 │
 📁 Images
 │
-├── <img width="1277" height="720" alt="Page_Garde" src="https://github.com/user-attachments/assets/53b3538e-5a13-45b5-a53a-61529c4aa04c" />![Uploading Page_Garde.png…]()
-.png
+├── Page_Garde.png
 ├── Executive_Dashboard.png
 ├── Network_Performance.png
 └── Customer_Satisfaction.png
@@ -182,7 +181,8 @@ Le tableau de bord permet notamment de :
 
 ## 📄 Page de garde
 
-![Uploading Page_Garde.png…]()
+<img width="1277" height="720" alt="Page_Garde" src="https://github.com/user-attachments/assets/a7f50d6a-1d0a-4a5b-94e2-ead98a3dad12" />
+
 ---
 
 ## 📊 Tableau de bord exécutif
